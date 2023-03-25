@@ -56,3 +56,6 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=IvanLeovandi&theme=dracula&hide_border=false)
 
 </details>
+
+### Watch out! The snake will soon eat your contribution😱
+![snake gif](https://github.com/IvanLeovandi/IvanLeovandi/blob/output/github-contribution-grid-snake.gif)
