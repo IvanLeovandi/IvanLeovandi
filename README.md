@@ -44,6 +44,12 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   47 mins         █████████████████████░░░░   84.16 %
+YAML       8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
