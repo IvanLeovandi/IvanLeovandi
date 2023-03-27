@@ -42,11 +42,11 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 
 #### Github Stats
 
-![IvanLeovandi's github stats](https://github-readme-stats.vercel.app/api?username=IvanLeovandi&count_private=true&theme=tokyonight&hide=issues)
+![IvanLeovandi's github stats](https://github-readme-stats.vercel.app/api?username=IvanLeovandi&count_private=true&theme=onedark&hide=issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeovandi&layout=compact&theme=tokyonight)](https://github.com/IvanLeovandi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeovandi&layout=compact&theme=onedark)](https://github.com/IvanLeovandi/github-readme-stats)
 
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=IvanLeovandi&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=IvanLeovandi&theme=onedark&hide_border=false)
 
 </details>
