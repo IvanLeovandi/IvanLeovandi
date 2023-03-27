@@ -54,12 +54,12 @@ YAML       8 mins          ████░░░░░░░░░░░░░�
 
 #### Github Stats
 
-![IvanLeovandi's github stats](https://github-readme-stats.vercel.app/api?username=IvanLeovandi&count_private=true&theme=dracula&hide=issues)
+![IvanLeovandi's github stats](https://github-readme-stats.vercel.app/api?username=IvanLeovandi&count_private=true&theme=onedark&hide=issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeovandi&layout=compact&theme=dracula)](https://github.com/IvanLeovandi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeovandi&layout=compact&theme=onedark)](https://github.com/IvanLeovandi/github-readme-stats)
 
 
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=IvanLeovandi&theme=dracula&hide_border=false)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=IvanLeovandi&theme=onedark&hide_border=false)
 
 </details>
 
