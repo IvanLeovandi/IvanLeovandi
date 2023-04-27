@@ -46,8 +46,8 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 <!--START_SECTION:waka-->
 
 ```text
-Java         3 hrs 17 mins   █████████████████████████   99.76 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Java         7 hrs 36 mins   █████████████████████████   99.90 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
