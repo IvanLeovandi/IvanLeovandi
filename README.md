@@ -45,7 +45,7 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
