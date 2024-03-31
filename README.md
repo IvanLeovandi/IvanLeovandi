@@ -46,10 +46,10 @@ I'm Ivan Leovandi an IST Student and a Frontend Web Developer. I'm currently stu
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 30 mins    ███████████████▓░░░░░░░░░   62.69 %
-Bash         32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Markdown     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript   1 hr 39 mins    ████████████████▒░░░░░░░░   64.79 %
+Bash         32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Markdown     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
